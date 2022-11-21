@@ -1,0 +1,11 @@
+-Pharmacy UI-
+
+https://github.com/RamaChandra793/PharmacyUI.git
+
+-Pharmacy BackendAPI-
+
+https://github.com/RamaChandra793/PharmacyBackendAPI.git
+
+-DB Script-
+
+https://github.com/RamaChandra793/DB-Script.git

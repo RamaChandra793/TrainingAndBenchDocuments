@@ -1,0 +1,11 @@
+*Traning Assignments*
+
+Assignment-1
+
+https://github.com/RamaChandra793/ClientServerApp.git
+
+Training Case Study
+
+https://github.com/RamaChandra793/ShoppingApp.git
+
+

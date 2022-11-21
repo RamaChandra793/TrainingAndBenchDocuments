@@ -1,0 +1,8 @@
+F:\projects\OOPS\obj\Debug\OOPS.csproj.AssemblyReference.cache
+F:\projects\OOPS\obj\Debug\OOPS.csproj.SuggestedBindingRedirects.cache
+F:\projects\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+F:\projects\OOPS\bin\Debug\OOPS.exe.config
+F:\projects\OOPS\bin\Debug\OOPS.exe
+F:\projects\OOPS\bin\Debug\OOPS.pdb
+F:\projects\OOPS\obj\Debug\OOPS.exe
+F:\projects\OOPS\obj\Debug\OOPS.pdb

@@ -1,0 +1,3 @@
+Completed CAF Test
+Completed Certification on AZ-900
+Leraned and worked on Azure services like- Azure app service,azure sql database
